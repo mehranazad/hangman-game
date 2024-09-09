@@ -1,9 +1,5 @@
 /*
 Author: Mehran Azad
-Course: CS135
-Instructor: Genady Maryash
-Assignment: Project 1 Task D
-This program adds functions 
 */
 
 #include <iostream>
